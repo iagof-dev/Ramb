@@ -1,0 +1,12 @@
+D:\Projetos VS\Ramb\Ramb\bin\Debug\Ramb.exe.config
+D:\Projetos VS\Ramb\Ramb\bin\Debug\Ramb.exe
+D:\Projetos VS\Ramb\Ramb\bin\Debug\Ramb.pdb
+D:\Projetos VS\Ramb\Ramb\obj\Debug\Ramb.csproj.AssemblyReference.cache
+D:\Projetos VS\Ramb\Ramb\obj\Debug\Ramb.csproj.SuggestedBindingRedirects.cache
+D:\Projetos VS\Ramb\Ramb\obj\Debug\Ramb.Form1.resources
+D:\Projetos VS\Ramb\Ramb\obj\Debug\Ramb.Properties.Resources.resources
+D:\Projetos VS\Ramb\Ramb\obj\Debug\Ramb.csproj.GenerateResource.cache
+D:\Projetos VS\Ramb\Ramb\obj\Debug\Ramb.csproj.CoreCompileInputs.cache
+D:\Projetos VS\Ramb\Ramb\obj\Debug\Ramb.exe
+D:\Projetos VS\Ramb\Ramb\obj\Debug\Ramb.pdb
+D:\Projetos VS\Ramb\Ramb\obj\Debug\Ramb.Ramb.resources
