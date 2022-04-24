@@ -13,5 +13,5 @@ Exploda sua ram
 
 ## ⚠️🚨 Aviso!🚨⚠️
 
-Ram Bomber é um Programa/Aplicativo destinado apenas para fins educativos ou para realizar teste de Benchmark e testar potência ao maximo<br>
+Ram Bomber é um Programa/Aplicativo destinado apenas para fins educativos ou para realizar teste de Benchmark e testar potência do PC ao maximo<br>
 Não danifique o Computador dos amiguinhos 😄
