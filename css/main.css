@@ -1,72 +1,69 @@
 *{
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
 }
 body{
-    background-color: #111111;
+    background-color: #303030;
 }
-.home{
+
+.header{
+    display: flex;
+    width: 100%;
+    height: 100px;
+    justify-content: center;
+}
+.center{
     display: flex;
     justify-content: center;
-    
 }
-.ramb_homeimg{
-    width: 30%;
-    height: 20%;
-    
+.logo{
+    display: flex;
+    justify-content: center;
 }
-hr{
-    border: 1px solid #222222;
+
+
+.Screenshots{
+    display: flex;
+    justify-content: center;
 }
-.postagem1{
+
+.carrossel{
+    padding-top: 3%;
     display: block;
-    justify-content: center;
-    line-height: 20px;
-    
+    width: 50%;
+    height: 100px;
 }
-.topics{
+
+.update{
     display: flex;
+    margin-top: 2%;
     justify-content: center;
-    margin-left: 10px;
-    padding: 50px;
-    margin-bottom: 186px;
-    border-radius: 0px; 
+}
+.postag{
+    display: block;
+    width: 30%;
+    margin-bottom: 5%;
+}
+
+.n3rdydzn{
+    width: 100%;
+    height: 35px;
+    position: fixed;
+    bottom: 0%;
+}
+
+.git{
+    color: white;
+}
+.git:hover{
+    color: #303030;
 }
 h2{
+    padding-top: 5px;
+    text-align: center;
     font-size: 15px;
-    line-height: 2px;
-    color: #d6d6d6;
 }
-p{
-    font-size: 15px;
-    color: #d6d6d6;
-}
-.credits{
+.baixar{
     display: flex;
-    position: sticky;
-    top: 0px;
-    justify-content: center;
-}
-#bg {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    width: 100vw;
-    height: 100vh;
-    z-index: -1;
-  }
-.post1img{
-      border-radius: 10px;
-  }
-.header{
-    background-color: #111111;
-    position: sticky;
-    top: 0px;
-  }
-.Download{
-    background-color: #323232;
-    display: block;
-    margin-left: 180px;
-    justify-content: center;
+    position: fixed;
+    bottom: 12%;
 }
