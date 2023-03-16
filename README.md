@@ -3,7 +3,7 @@
 
 # 🐸 Ramb (Ram Bomber)💣 
 
-Exploda sua ram
+O projeto Ram Bomber ou "Ramb" é um aplicativo de stresstest de memória RAM, projetado para testar a estabilidade e a confiabilidade da RAM em dispositivos móveis e computadores pessoais. Com uma interface fácil de usar, este aplicativo permite que os usuários avaliem a capacidade de suas RAMs em situações de alta carga. Até seu computador pedir socorro.
 
 
 
